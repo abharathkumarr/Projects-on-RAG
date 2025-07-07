@@ -1,2 +1,2 @@
 # Projects-on-RAG
-Building Applications Using RAG
+Building Applications Using RAG 
